@@ -1,0 +1,283 @@
+body {
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	background-color: #000;
+}
+.main_div {
+	height: auto;
+	width: 1002px;
+	background-image: url(../images/bg.gif);
+	float: left;
+	background-color: #FAFAF7;
+	background-repeat: repeat-x;
+}
+.wrapper .main_div .content table tr td a {
+	color: #000;
+}
+
+.wrapper {
+	height: auto;
+	width: 1002px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.logo {
+	float: left;
+	height: auto;
+	width: auto;
+	margin-top: 20px;
+	margin-left: 29px;
+}
+.bold {
+	font-weight: bolder;
+	text-decoration: underline;
+	color: #0A1F50;
+	font-size: 12px;
+}
+.banner {
+	clear: both;
+	height: auto;
+	width: 952px;
+	padding-bottom: 3px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #274678;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 1px;
+}
+.current {
+	background-color: #0A1F50;
+	color: #FFF;
+}
+.current_text    {
+	color: #FFF;
+}
+.content {
+	padding: 10px;
+	clear: both;
+	width: 932px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+	color: #000;
+}
+.wrapper .main_div .content h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 15px;
+	color: #1E3459;
+	margin-left: 0px;
+}
+.wrapper .main_div .content p {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: justify;
+}
+
+.wrapper .main_div .content td {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: justify;
+}
+.footer {
+	width: 933px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	background-color: #0a1f50;
+	text-align: left;
+	padding-top: 30px;
+	padding-bottom: 25px;
+	padding-right: 35px;
+	padding-left: 35px;
+	float: left;
+}
+.wrapper .main_div .footer a {
+	text-align: left;
+	width: auto;
+	color: #FFF;
+	text-decoration: none;
+	float: left;
+	margin-right: 20px;
+}
+.wrapper .main_div .footer .develop {
+	float: right;
+	width: 400px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	text-align: right;
+	margin-right: -25px;
+}
+.wrapper .main_div .footer .develop a {
+	color: #FFF;
+	text-decoration: none;
+	float: none;
+}
+.wrapper .main_div .footer .develop a:hover {
+	text-decoration: underline;
+}
+.wrapper .main_div .footer a:hover {
+	text-decoration: underline;
+}
+
+#jsddm
+{
+	padding: 0;
+	float: right;
+	width: auto;
+	height: auto;
+	margin-top: 92px;
+	margin-right: 24px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+	#jsddm li
+	{
+	float: right;
+	list-style: none;
+	width: auto;
+	margin-top: 0px;
+	padding: 0px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+
+	#jsddm li a
+	{
+	display: block;
+	text-decoration: none;
+	border-right: 1px solid white;
+	white-space: nowrap;
+	padding: 12px;
+	width: 90px;
+	color: #000;
+}
+
+	#jsddm li a:hover
+	{
+	background-color: #0A1F50;
+	color: #FFF;
+}
+		
+		#jsddm li ul
+		{
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	visibility: hidden;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #FFF;
+}
+		
+			#jsddm li ul li
+			{
+	float: none;
+	display: inline;
+	width: 80px;
+}
+			
+			#jsddm li ul li a
+			{
+	width: 90px;
+	color: #000;
+	background-color: #FEFEFF;
+	padding-top: 10px;
+	padding-right: 12px;
+	padding-bottom: 10px;
+	padding-left: 12px;
+	margin-top: 1px;
+	filter: DropShadow(Color=#000000, OffX=10, OffY=10, Positive=1);
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+			
+			#jsddm li ul li a:hover
+			{
+	color: #FFF;
+	background-color: #0A1F50;
+}
+.wrapper .main_div .content ul li {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+}
+.wrapper .main_div .content h2 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	margin-left: 20px;
+	color: #1E3459;
+}
+.wrapper .main_div .content h2 p {
+	margin-top: 5px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000;
+	font-weight: normal;
+	margin-bottom: 0px;
+}
+.wrapper .main_div .content h2 p a {
+	color: #0A1F50;
+	text-decoration: underline;
+	text-align: right;
+	float: right;
+}
+.images {
+	height: 300px;
+	width: 555px;
+	clear: both;
+	margin-right: auto;
+	margin-left: auto;
+}
+.wrapper .main_div .content .images .main_gallery .thumb #galley {
+	height: 100%;
+	width: 100%;
+}
+
+.wrapper .main_div .content .images .main_gallery {
+	float: left;
+	height: auto;
+	width: 555px;
+}
+.thumb {
+	height: 100px;
+	width: 100px;
+	border: 3px solid #999;
+	margin-right: 5px;
+	margin-top: 5px;
+	float: left;
+}
+.wrapper .main_div .content .images .mesage {
+	float: left;
+	width: 100%;
+	vertical-align: bottom;
+	height: auto;
+	margin-top: 30px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin-bottom: 50px;
+}
+
+
+#form1 table tr td #username {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+}
+
+#form1 table tr td #mobile {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+}
+
+#form1 table tr td #Email {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+}
+
+#form1 table tr td #message {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+}
